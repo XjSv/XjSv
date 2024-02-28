@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XjSv
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web3 & Blockchain
+- 🌱 I’m currently learning AI
 - 💞️ I’m looking to collaborate on [environment-marker](https://github.com/XjSv/environment-marker)
 - 📫 You can reach me atresova@gmail.com
 
